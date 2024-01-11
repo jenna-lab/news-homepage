@@ -6,10 +6,6 @@
   box-sizing: border-box;
 }
 
-html {
-  scroll-behavior: smooth;
-  position: relative;
-}
 
 body {
   height: 100%;
